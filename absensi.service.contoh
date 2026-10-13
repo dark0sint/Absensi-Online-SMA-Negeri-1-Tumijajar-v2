@@ -1,0 +1,16 @@
+# /etc/systemd/system/absensi.service
+[Unit]
+Description=Absensi SMAN 1 Tumijajar
+After=network.target
+
+[Service]
+WorkingDirectory=/opt/absensi
+Environment=PORT=3000
+Environment=TRUST_PROXY=1
+Environment=ADMIN_PASSWORD=GantiPasswordKuatDisini
+ExecStart=/usr/bin/node --no-warnings server.js
+Restart=always
+User=www-data
+
+[Install]
+WantedBy=multi-user.target

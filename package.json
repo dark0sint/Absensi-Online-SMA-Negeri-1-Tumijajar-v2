@@ -1,0 +1,10 @@
+{
+  "name": "absensi-sman1-tumijajar",
+  "version": "1.0.0",
+  "description": "Aplikasi absensi online SMA Negeri 1 Tumijajar (PWA, GPS, selfie, dashboard guru)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=22.13" },
+  "license": "MIT",
+  "private": true
+}

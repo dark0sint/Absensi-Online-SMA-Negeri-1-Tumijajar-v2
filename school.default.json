@@ -1,0 +1,43 @@
+{
+  "nama": "SMA Negeri 1 Tumijajar",
+  "slogan": "Disiplin, Berprestasi, Berkarakter",
+  "alamat": "Tumijajar, Kabupaten Tulang Bawang Barat, Provinsi Lampung",
+  "kepalaSekolah": "",
+  "tentang": "SMA Negeri 1 Tumijajar adalah satuan pendidikan jenjang menengah atas negeri di Kecamatan Tumijajar, Kabupaten Tulang Bawang Barat, Lampung. Sekolah berkomitmen membentuk peserta didik yang cerdas, berakhlak mulia, dan siap menghadapi tantangan zaman.",
+  "visi": "Terwujudnya peserta didik yang beriman, berprestasi, berkarakter, dan berwawasan lingkungan.",
+  "misi": [
+    "Menumbuhkan penghayatan dan pengamalan nilai keagamaan serta budi pekerti luhur.",
+    "Melaksanakan pembelajaran yang aktif, kreatif, dan berpusat pada peserta didik.",
+    "Mengembangkan potensi akademik, minat, dan bakat melalui kegiatan ekstrakurikuler.",
+    "Membiasakan disiplin, jujur, dan tanggung jawab dalam kehidupan sekolah.",
+    "Menciptakan lingkungan sekolah yang bersih, aman, dan nyaman."
+  ],
+  "program": [
+    { "judul": "Kurikulum Merdeka", "isi": "Pembelajaran fleksibel dengan penguatan profil pelajar Pancasila dan pilihan mata pelajaran sesuai minat." },
+    { "judul": "Literasi & Numerasi", "isi": "Pembiasaan membaca, menulis, dan berpikir logis dalam kegiatan belajar sehari-hari." },
+    { "judul": "Penguatan Karakter", "isi": "Kegiatan keagamaan, kebangsaan, dan kepedulian sosial sebagai bagian dari budaya sekolah." }
+  ],
+  "ekskul": [
+    { "nama": "Pramuka", "ikon": "🏕️" }, { "nama": "PMR", "ikon": "➕" }, { "nama": "Paskibra", "ikon": "🚩" },
+    { "nama": "Rohis", "ikon": "🕌" }, { "nama": "Futsal", "ikon": "⚽" }, { "nama": "Bola Voli", "ikon": "🏐" },
+    { "nama": "Seni & Tari", "ikon": "🎭" }, { "nama": "English Club", "ikon": "🗣️" }
+  ],
+  "fasilitas": [
+    { "nama": "Ruang Kelas", "ikon": "🏫" }, { "nama": "Perpustakaan", "ikon": "📚" }, { "nama": "Laboratorium", "ikon": "🔬" },
+    { "nama": "Lab Komputer", "ikon": "💻" }, { "nama": "Lapangan Olahraga", "ikon": "🏟️" }, { "nama": "Tempat Ibadah", "ikon": "🕌" }
+  ],
+  "aturanAbsensi": [
+    "Absen dilakukan setiap hari belajar melalui aplikasi ini, menggunakan NIS masing-masing.",
+    "Absen Hadir hanya dapat dilakukan dari lingkungan sekolah dengan GPS aktif dan selfie langsung dari kamera.",
+    "Absen setelah batas tepat waktu tercatat Terlambat. Setelah jam penutupan, absen tidak dapat dilakukan; hubungi guru piket.",
+    "Izin atau Sakit wajib disertai keterangan dan dapat diajukan dari mana saja sebelum jam penutupan pengajuan.",
+    "Dilarang menitipkan absen atau memalsukan lokasi dan foto. Pelanggaran ditindak sesuai tata tertib sekolah."
+  ],
+  "jadwal": [
+    { "kegiatan": "Apel / Pembiasaan Pagi", "jam": "07.00 – 07.15" },
+    { "kegiatan": "Jam Pelajaran 1–4", "jam": "07.15 – 10.00" },
+    { "kegiatan": "Istirahat", "jam": "10.00 – 10.30" },
+    { "kegiatan": "Jam Pelajaran 5–8", "jam": "10.30 – 13.00" }
+  ],
+  "kontak": { "telepon": "", "email": "", "website": "", "instagram": "", "maps": "" }
+}
