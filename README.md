@@ -76,3 +76,10 @@ Salin folder `data/` secara berkala (berisi `absensi.db`, `foto/`, `school.json`
 
 ## API singkat
 `GET /api/public` · `GET /api/siswa/:nis` · `POST /api/absen` · `POST /api/admin/login` · `GET /api/admin/{harian,rekap,export,laporan.pdf,siswa,guru,settings}` · `POST /api/admin/wa-log` · `GET /healthz`
+
+
+<img width="2860" height="1864" alt="03_Laporan_PDF_dan_Spreadsheet" src="https://github.com/user-attachments/assets/ca3d7420-48ad-4b08-bd70-b66667904257" />
+
+<img width="2700" height="4623" alt="02_Dashboard_Guru_Desktop" src="https://github.com/user-attachments/assets/e336c1c3-caf6-4a6a-9078-c5b51ee7d64c" />
+
+<img width="2700" height="3432" alt="01_Aplikasi_Siswa_Mobile" src="https://github.com/user-attachments/assets/f65e7e47-a25e-4ee1-8952-158d3f101b74" />
