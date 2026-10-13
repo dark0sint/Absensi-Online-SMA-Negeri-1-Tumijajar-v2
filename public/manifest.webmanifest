@@ -1,0 +1,18 @@
+{
+  "name": "Absensi SMA Negeri 1 Tumijajar",
+  "short_name": "Absensi SMANSA",
+  "description": "Aplikasi absensi online siswa SMA Negeri 1 Tumijajar",
+  "start_url": "/#/absen",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b2a5b",
+  "theme_color": "#0b2a5b",
+  "lang": "id",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [{ "name": "Absen Sekarang", "url": "/#/absen" }]
+}
